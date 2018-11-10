@@ -21,12 +21,16 @@ section {
 img {
   width: 100%;
   display: block;
-  max-width: 25em;
-  margin-top: 2em;
+  max-width: 448px;
+  margin-top: 2.5em;
 }
 
 .image {
   margin-top: .5em;
+}
+
+figure {
+  margin: 0;
 }
 
 body {
